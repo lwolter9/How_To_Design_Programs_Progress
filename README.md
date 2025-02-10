@@ -1,1 +1,1 @@
-How_To_Design_Programs_Progress
+My solutions to the problems in the How to design programs course found here: https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015
